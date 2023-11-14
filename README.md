@@ -1,5 +1,19 @@
 # White Boards Photos
 
+# what is it ?
+
+
+# up to date :
+
+## known issues :
+
+# how to use it :
+
+
+# print settings
+
+
+
 
 # Assembly :
 
