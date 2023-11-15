@@ -12,15 +12,33 @@
 
 # How to use it ?
 
-> [!NOTE] > You will need the following tools (here to see the BOM) :
+> [!warning]
+> before following these steps you should know that this project is a WIP so there will be missing things
+
+
+
+> [!NOTE]
+> - You will need the following tools (here to see the BOM) :
 > - M5 HEX allen wrench (ball point is recomended)
 > - soldering iron
 
-1. Print every STL in PLA 20 % fill 
+https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
 
-2. apply the double sided tape to the backside of "fixation mur"
 
-3. ddk
+1. Print every STL in PLA 20 % fill
+
+2. Install esp32 cam server example onto the esp32, solder the usb type C and change the anntena to be external  
+
+3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation
+
+4. Thread the M5 x 30 mm bolt in "avant bras" and assemble it with "biceps"
+
+5. Pass your USB type C trough "fixation mur" first and then trough "biceps" & "avant bras"  and bolt them together with M ??
+
+6. Connect the camera module to the rest and connect the cable
+
+7. Ta - Da 
+
 
 
 
@@ -42,7 +60,6 @@
 # Assembly :
 
 
-https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
 
 # Licence :
 [Attribution-NonCommercial 4.0 International
