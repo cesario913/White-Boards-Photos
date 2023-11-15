@@ -12,8 +12,7 @@
 
 # How to use it ?
 
-> [!NOTE]
-> You will need the following tools (here to see the BOM) :
+> [!NOTE] > You will need the following tools (here to see the BOM) :
 > - M5 HEX allen wrench (ball point is recomended)
 > - soldering iron
 
