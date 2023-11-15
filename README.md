@@ -13,7 +13,7 @@
 # How to use it ?
 
 > [!warning]
-> before following these steps you should know that this project is a WIP so there will be missing things thry will be tracked in ["this chapeter"](#known_issues)
+> before following these steps you should know that this project is a WIP so there will be missing things thry will be tracked in ["this chapeter"](#aknown_issues)
 
 
 
@@ -48,7 +48,7 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 # up to date :
 
 
-<a name="known_issues"></a>
+<a name="aknown_issues"></a>
 ## known issues :
 
 # how to use it :
