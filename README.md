@@ -18,7 +18,7 @@
 
 1. Print every STL in PLA 20 % fill 
 
-2. apply the double faced tape to the backside of "fixation mur"
+2. apply the double sided tape to the backside of "fixation mur"
 
 3. ddk
 
