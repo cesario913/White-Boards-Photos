@@ -13,7 +13,7 @@
 # How to use it ?
 
 > [!warning]
-> before following these steps you should know that this project is a WIP so there will be missing things thry will be tracked in [this section](-#known-issues)
+> before following these steps you should know that this project is a WIP so there will be missing things thry will be tracked in [this section](-known-issues)
 
 
 
