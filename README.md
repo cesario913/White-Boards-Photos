@@ -13,7 +13,8 @@
 # How to use it ?
 
 > [!warning]
-> before following these steps you should know that this project is a WIP so there will be missing things thry will be tracked in ["this chapeter"](#aknown_issues)
+> before following these steps you should know that this project is a WIP so there will be missing things,
+> they will be tracked in ["this chapter"](#aknown_issues) hopefully
 
 
 
