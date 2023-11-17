@@ -17,7 +17,7 @@ The goal of this project is to have an object that makes it easy for you to take
 
 Solutions to this problem already exist like the [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) but i want to have my take on it and make it a lot more afordable.
 
-If you have ideas or toughts about this project feel free to tell me in the discussions tab.
+> If you have ideas or toughts about this project feel free to tell me in the discussions tab.
 
 
 
