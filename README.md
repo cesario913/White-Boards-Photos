@@ -22,17 +22,6 @@ Solutions to this problem already exist like the [logitech scribe](https://www.l
 > If you have ideas or toughts about this project feel free to tell me in the discussions tab.
 
 
-
-1. c'est quoi 
-2. comment utiliser les stl etc + assemblage
-	1. les problèmes connus
-	2. video assemblage
-3. les problèmes connu et fix a venir
-4. question sur interface
-5. Licence
-
-
-
 # How to build it ?
 
 
@@ -65,7 +54,7 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 
 2. Install esp32 cam server example onto the esp32  
 
-3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation
+3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation, close to the whiteboard and in the middle.
 
 4. Thread the M5 x 30 mm bolt in "avant bras" and assemble it with "biceps"
 
