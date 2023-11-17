@@ -6,9 +6,16 @@
 
 > [!warning]
 > This project is very much a WIP but there is an MVP (minimum viable product).
+>
 > The software side will be my new priority,
 > for now i am using an example sketch for the esp32 cam (server) that allows to take and save photos over local wi-fi.
-> The goal is 
+
+
+The goal of this project is to have an object that makes it easy for you to take pictures of what's on your whiteboard, be able to do this trough a physical button or over wi-fi, and have a SVG file stored in google drive or something else.
+
+Solutions to this problem already exist like [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) 
+
+There already are solutions for this project logitech scribe
 
 
 
