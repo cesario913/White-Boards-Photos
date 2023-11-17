@@ -2,7 +2,7 @@
 
 *A way to digitalise your whiteboard !!!*
 
-![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/b0bb34b4-8632-4ece-bdf2-e2ed1ff0ef1f)
+![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/dd59fb81-cf28-4022-8600-96da3101a658)
 *Beta V1.0*
 
 
@@ -46,7 +46,8 @@ HEX M5 & M3 allen keys
 soldering iron (for BETA V1.0)
 ```
 
-https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
+https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18-4025-aa7f-6af0de52a47b
+
 
 ## Instruccions for MVP cam holder : 
 
