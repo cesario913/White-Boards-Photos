@@ -85,4 +85,4 @@ The assembly has been created with modularity in mind here are the dimensions fo
 [Attribution-NonCommercial 4.0 International
 ](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
-[^1]: BETA v0.1
+
