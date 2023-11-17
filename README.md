@@ -3,6 +3,8 @@
 *A way to digitalise your whiteboard !!!*
 
 ![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/b0bb34b4-8632-4ece-bdf2-e2ed1ff0ef1f)
+*Beta V1.0*
+
 
 > [!warning]
 > This project is very much a WIP but there is an MVP (minimum viable product).
@@ -83,4 +85,4 @@ The assembly has been created with modularity in mind here are the dimensions fo
 [Attribution-NonCommercial 4.0 International
 ](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
-
+[^1]: BETA v0.1
