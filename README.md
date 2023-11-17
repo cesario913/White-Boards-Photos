@@ -41,7 +41,7 @@ You will need the following :
 ```
 Hardware :
 - ESP32 CAM + programming module
-- OV2640 160º recomended
+- OV2640 160º long cable 
 - M5x30mm 2x
 - M5x20mm 2x
 - M5 nut 2x
@@ -76,7 +76,8 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 7. Ta - Da
 
 You can now connect to the ip adress of the esp32 and take photos or start a live it will be probably quite slow the bottleneck is the antena wich will be external for upcoming versions.
-In my testing i also add the issue of a lot of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
+In my testing i also had lots of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
+
 
  
 
