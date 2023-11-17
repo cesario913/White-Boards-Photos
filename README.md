@@ -33,6 +33,7 @@ Solutions to this problem already exist like the [logitech scribe](https://www.l
 
 # How to build it ?
 
+
 You will need the following :
 
 ```
@@ -43,19 +44,16 @@ Hardware :
 - M5x20mm 2x
 - M5 nut 2x
 - double sided foam tape
-- M3x10mm 2x (only for the MVP)
-- M5 wingnut (only for MVP)
+- USB type C breakout board (for BETA V1.0)
+- external antenna (for BETA V1.0)
+- M3x10mm 2x (for MVP)
+- M5 wingnut (for MVP)
 ```
 ```
 Tools :
-M5 & M3 allen keys
+HEX M5 & M3 allen keys
+soldering iron (for BETA V1.0)
 ```
-
-
-> [!NOTE]
-> - You will need the following tools (here to see the BOM) :
-> - M5 HEX allen wrench (ball point is recomended)
-> - soldering iron
 
 https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
 
@@ -74,29 +72,12 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 
 7. Ta - Da 
 
+# known issues :
 
 
+# Reference drawing for connecting parts :
 
-# what is it ?
-
-
-# up to date :
-
-
-<a name="aknown_issues"></a>
-## known issues :
-
-# how to use it :
-
-
-# print settings
-
-
-
-
-# Assembly :
-
-
+The assembly has been created with modularity in mind here are the dimensions for you to create stuff 
 
 # Licence :
 [Attribution-NonCommercial 4.0 International
