@@ -2,7 +2,7 @@
 
 *A way to digitalise your whiteboard !!!*
 
-![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/b0bb34b4-8632-4ece-bdf2-e2ed1ff0ef1f)
+![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/dd59fb81-cf28-4022-8600-96da3101a658)
 *Beta V1.0*
 
 
@@ -22,17 +22,6 @@ Solutions to this problem already exist like the [logitech scribe](https://www.l
 > If you have ideas or toughts about this project feel free to tell me in the discussions tab.
 
 
-
-1. c'est quoi 
-2. comment utiliser les stl etc + assemblage
-	1. les problèmes connus
-	2. video assemblage
-3. les problèmes connu et fix a venir
-4. question sur interface
-5. Licence
-
-
-
 # How to build it ?
 
 
@@ -41,7 +30,7 @@ You will need the following :
 ```
 Hardware :
 - ESP32 CAM + programming module
-- OV2640 160º recomended
+- OV2640 160º long cable 
 - M5x30mm 2x
 - M5x20mm 2x
 - M5 nut 2x
@@ -57,7 +46,8 @@ HEX M5 & M3 allen keys
 soldering iron (for BETA V1.0)
 ```
 
-https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
+https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18-4025-aa7f-6af0de52a47b
+
 
 ## Instruccions for MVP cam holder : 
 
@@ -65,7 +55,7 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 
 2. Install esp32 cam server example onto the esp32  
 
-3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation
+3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation, close to the whiteboard and in the middle.
 
 4. Thread the M5 x 30 mm bolt in "avant bras" and assemble it with "biceps"
 
@@ -76,7 +66,8 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90
 7. Ta - Da
 
 You can now connect to the ip adress of the esp32 and take photos or start a live it will be probably quite slow the bottleneck is the antena wich will be external for upcoming versions.
-In my testing i also add the issue of a lot of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
+In my testing i also had lots of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
+
 
  
 
