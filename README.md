@@ -59,27 +59,40 @@ soldering iron (for BETA V1.0)
 
 https://github.com/cesario913/White-Boards-Photos/assets/141003626/6ddf537f-5f90-4127-8dd8-c20db68a6fda
 
+## Instruccions for MVP cam holder : 
 
 1. Print every STL in PLA 20 % fill
 
-2. Install esp32 cam server example onto the esp32, solder the usb type C and change the anntena to be external  
+2. Install esp32 cam server example onto the esp32  
 
 3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation
 
 4. Thread the M5 x 30 mm bolt in "avant bras" and assemble it with "biceps"
 
-5. Pass your USB type C trough "fixation mur" first and then trough "biceps" & "avant bras"  and bolt them together with M ??
+5. Pass your micro-USB cable trough "fixation mur" first and then trough "biceps" & "avant bras" and bolt them together with 2x M5x20mm in oposed corners
 
-6. Connect the camera module to the rest and connect the cable
+6. Connect the camera module to the rest with an embeded nut in cam holder and an assembled knob, connect the cable
 
-7. Ta - Da 
+7. Ta - Da
+
+You can now connect to the ip adress of the esp32 and take photos or start a live it will be probably quite slow the bottleneck is the antena wich will be external for upcoming versions.
+In my testing i also add the issue of a lot of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
+
+ 
 
 # known issues :
+
+- there is too much play between "avant bras" % "biceps"
+- the mounting holes to "fixation mur" are hard to access, they need to be on an angle
 
 
 # Reference drawing for connecting parts :
 
 The assembly has been created with modularity in mind here are the dimensions for you to create stuff 
+
+
+
+
 
 # Licence :
 [Attribution-NonCommercial 4.0 International
