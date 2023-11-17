@@ -1,5 +1,18 @@
 # White Boards Photos
 
+*A way to digitalise your whiteboard !!!*
+
+![assembly render](https://github.com/cesario913/White-Boards-Photos/assets/141003626/b0bb34b4-8632-4ece-bdf2-e2ed1ff0ef1f)
+
+> [!warning]
+> This project is very much a WIP but there is an MVP (minimum viable product).
+> The software side will be my new priority,
+> for now i am using an example sketch for the esp32 cam (server) that allows to take and save photos over local wi-fi.
+> The goal is 
+
+
+
+
 1. c'est quoi 
 2. comment utiliser les stl etc + assemblage
 	1. les problèmes connus
