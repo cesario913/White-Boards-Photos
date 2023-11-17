@@ -31,12 +31,25 @@ Solutions to this problem already exist like the [logitech scribe](https://www.l
 
 
 
-# How to use it ?
+# How to build it ?
 
-> [!warning]
-> before following these steps you should know that this project is a WIP so there will be missing things,
-> they will be tracked in ["this chapter"](#aknown_issues) hopefully
+You will need the following :
 
+```
+Hardware :
+- ESP32 CAM + programming module
+- OV2640 160º recomended
+- M5x30mm 2x
+- M5x20mm 2x
+- M5 nut 2x
+- double sided foam tape
+- M3x10mm 2x (only for the MVP)
+- M5 wingnut (only for MVP)
+```
+```
+Tools :
+M5 & M3 allen keys
+```
 
 
 > [!NOTE]
