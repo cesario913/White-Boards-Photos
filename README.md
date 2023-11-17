@@ -73,7 +73,7 @@ In my testing i also had lots of noise and artifacts in the pictures this may be
 
 # known issues :
 
-- there is too much play between "avant bras" % "biceps"
+- there is too much play between "avant bras" & "biceps"
 - the mounting holes to "fixation mur" are hard to access, they need to be on an angle
 
 
