@@ -75,19 +75,36 @@ if you use the programming module for esp32 cam you don't need the FTDI presente
 
 - [more in depths look at the camera OV2640 itself and how to change between cameras](https://www.youtube.com/watch?v=jbQ9Bp3wE_w&ab_channel=ThatProject) 
 
+# Status of the repo :
+
+There is one working version the MVP.
+For now the physical design will not change except for the camera module that needs more work and the future addition of a button. The focus will be more on the coding.  
 
 
-# known issues :
+## known issues :
 
 - there is too much play between "avant bras" & "biceps"
 - the mounting holes to "fixation mur" are hard to access, they need to be on an angle
 
+## What comes next/ where to help :
+
+I haven't decided on a couple of stuff, how the interface would be or behave for example if you connect your computer to it trough an app maybe bluetooth etc, but I am open to suggestions.
+The progresss will be in "modules" that can later be sawn together.
+
+### Programming :
+
+- a python program that can detect where is the white board and apply a perspective transform to the picture and other image manipulation
+- a way to send a request to take picture and download it directly to the computer in a specific folder
+
+### 3d modeling :
+
+- A camera module that holds the esp32 and camera for easy prototyping (with pins in the open)
 
 # Reference drawing for connecting parts :
 
 The assembly has been created with modularity in mind here are the dimensions for you to create stuff 
 
-
+(will come)
 
 
 
