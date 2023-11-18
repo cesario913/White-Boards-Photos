@@ -36,7 +36,7 @@ Hardware :
 - M5 nut 2x
 - double sided foam tape
 - USB type C breakout board (for BETA V1.0)
-- external antenna (for BETA V1.0)
+- u.fl external antenna (for BETA V1.0)
 - M3x10mm 2x (for MVP)
 - M5 wingnut (for MVP)
 ```
@@ -68,8 +68,14 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18
 You can now connect to the ip adress of the esp32 and take photos or start a live it will be probably quite slow the bottleneck is the antena wich will be external for upcoming versions.
 In my testing i also had lots of noise and artifacts in the pictures this may be caused by the bad connection or power delivery. 
 
+## Here are some videos to help you :
 
- 
+- [esp32 cam presentation and how to install server example ](https://www.youtube.com/watch?v=visj0KE5VtY&ab_channel=DroneBotWorkshop)
+if you use the programming module for esp32 cam you don't need the FTDI presented in the video just a micro usb cable directly connected to the computer
+
+- [more in depths look at the camera OV2640 itself and how to change between cameras](https://www.youtube.com/watch?v=jbQ9Bp3wE_w&ab_channel=ThatProject) 
+
+
 
 # known issues :
 
