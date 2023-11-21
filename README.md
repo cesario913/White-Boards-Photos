@@ -7,6 +7,20 @@
 
 
 
+
+
+# Objectives
+
+The goal is to make it easy to take pictures of your whiteboard, and access them from a computer as png or svg files (lighter and scalable).
+
+
+# Who is this for ?
+
+This object is meant to be both for archival purposes and to digitalize what you wrote, drew, etc on your whiteboard and allows you to use it in a lot of different ways (in Figma, Miro etc)
+If you are someone that uses a lot your whiteboard and takes a lot of pictures of it to keep track of your toughts you could benefit from having a specialized tool.
+
+Solutions to this problem already exist like the [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) but i want to have my take on it and make it more afordable.
+
 > [!warning]
 > This project is very much a WIP but there is an MVP (minimum viable product).
 >
@@ -14,20 +28,7 @@
 > I am learning opencv for python for this purpose when i have a basic version of what i want it to do i will upload to this repo.
 
 
-# Objectives
 
-The goal is to make it easy to take pictures of your whiteboard, and access them from a computer as png or svg (lighter and scalable).
-
-
-# Who is this for ?
-
-This object is meant to be both for archival purposes and to digitalize what you wrote, drew, etc that allows you to use it in a lot of different places.
-If you are someone that uses a lot your whiteboard and takes a lot of pictures of it you could benefit from having a specialized tool.
-
-Solutions to this problem already exist like the [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) but i want to have my take on it and make it more afordable.
-
-
-> If you have ideas or toughts about this project feel free to tell me in the discussions tab.
 
 # How to build it ?
 
@@ -46,11 +47,13 @@ Hardware :
 - u.fl external antenna (for BETA V1.0)
 - M3x10mm 2x (for MVP)
 - M5 wingnut (for MVP)
+- PLA or PETG 3d filament 
 ```
 ```
 Tools :
 HEX M5 & M3 allen keys
 soldering iron (for BETA V1.0)
+3d printer
 ```
 
 https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18-4025-aa7f-6af0de52a47b
@@ -58,7 +61,7 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18
 
 ## Instruccions for MVP cam holder : 
 
-1. Print every STL in PLA 20 % fill
+1. Print every STL in PLA or PETG 20 % fill
 
 2. Install esp32 cam server example onto the esp32  
 
@@ -98,6 +101,10 @@ For now the physical design will not change except for the camera module that ne
 I haven't decided on a couple of stuff, how the interface would be or behave for example if you connect your computer to it trough an app maybe bluetooth etc, but I am open to suggestions.
 The progresss will be in "modules" that can later be sawn together.
 
+>[!NOTE]
+> If you have ideas or toughts about this project feel free to tell me in the discussions tab.
+
+
 ### Programming :
 
 - a python program that can detect where is the white board and apply a perspective transform to the picture and other image manipulation
@@ -106,6 +113,9 @@ The progresss will be in "modules" that can later be sawn together.
 ### 3d modeling :
 
 - A camera module that holds the esp32 and camera for easy prototyping (with pins in the open)
+
+
+
 
 # Reference drawing for connecting parts :
 
