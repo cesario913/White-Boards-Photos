@@ -39,14 +39,14 @@ You will need the following :
 Hardware :
 - ESP32 CAM + programming module
 - OV2640 160º long cable 
-- M5x30mm 2x
-- M5x20mm 2x
-- M5 nut 2x
+- 2x M5x30mm 
+- 2x M5x20mm 
+- 2x M5 nut 
 - double sided foam tape
-- USB type C breakout board (for BETA V1.0)
-- u.fl external antenna (for BETA V1.0)
-- M3x10mm 2x (for MVP)
-- M5 wingnut (for MVP)
+- USB type C breakout board (only for BETA V1.0)
+- u.fl external antenna (only for BETA V1.0)
+- 2x M3x10mm (only for MVP)
+- M5 wingnut (only for MVP)
 - PLA or PETG 3d filament 
 ```
 ```
@@ -59,7 +59,7 @@ soldering iron (for BETA V1.0)
 https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18-4025-aa7f-6af0de52a47b
 
 
-## Instruccions for MVP cam holder : 
+## Build instruccions for MVP cam holder : 
 
 1. Print every STL in PLA or PETG 20 % fill
 
