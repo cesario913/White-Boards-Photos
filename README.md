@@ -6,9 +6,13 @@
 *Beta V1.0*
 
 
+
 > [!warning]
 > This project is very much a WIP but there is an MVP (minimum viable product).
 >
+> What do I mean by MVP, thanks to some 3d printed parts, some fastners and a esp32 cam you can take pictures of your whiteboard but this process is very limited because there isn't postprocessing of the image.
+> I am learning opencv for python for this purpose when i have a basic version of what i want it to do i will upload to this repo.
+>  
 > The software side will be my next priority,
 > for now i am using an example sketch for the esp32 cam (server) that allows to take and save photos over local wi-fi.
 
