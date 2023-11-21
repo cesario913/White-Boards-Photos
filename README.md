@@ -12,19 +12,22 @@
 >
 > What do I mean by MVP, thanks to some 3d printed parts, some fastners and a esp32 cam you can take pictures of your whiteboard but this process is very limited because there isn't postprocessing of the image.
 > I am learning opencv for python for this purpose when i have a basic version of what i want it to do i will upload to this repo.
->  
-> The software side will be my next priority,
-> for now i am using an example sketch for the esp32 cam (server) that allows to take and save photos over local wi-fi.
+
 
 # Objectives
 
-The goal of this project is to have an object that makes it easy for you to take pictures of what's on your whiteboard, be able to do this trough a physical button or over wi-fi, and have a SVG file stored in the cloud (ex. google drive) i would also like to have the possibility of choosing it as video input for discord, zoom etc.
+The goal is to make it easy to take pictures of your whiteboard, and access them from a computer as png or svg (lighter and scalable).
 
 
-Solutions to this problem already exist like the [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) but i want to have my take on it and make it a lot more afordable.
+# Who is this for ?
+
+This object is meant to be both for archival purposes and to digitalize what you wrote, drew, etc that allows you to use it in a lot of different places.
+If you are someone that uses a lot your whiteboard and takes a lot of pictures of it you could benefit from having a specialized tool.
+
+Solutions to this problem already exist like the [logitech scribe](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html) but i want to have my take on it and make it more afordable.
+
 
 > If you have ideas or toughts about this project feel free to tell me in the discussions tab.
-
 
 # How to build it ?
 
@@ -108,12 +111,14 @@ The progresss will be in "modules" that can later be sawn together.
 
 The assembly has been created with modularity in mind here are the dimensions for you to create stuff 
 
-(will come)
+(will come soon!)
 
 
 
 # Licence :
 [Attribution-NonCommercial 4.0 International
 ](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
+
 
 
