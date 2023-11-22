@@ -63,7 +63,7 @@ https://github.com/cesario913/White-Boards-Photos/assets/141003626/b958ab61-fa18
 
 1. Print every STL in PLA or PETG 20 % fill
 
-2. Install esp32 cam server example onto the esp32  
+2. Install esp32 cam server example onto the esp32   (see "here are some videos to help" first video )
 
 3. Apply the double sided tape to the backside of "fixation mur" and fix it to the wall in the correct orientation, close to the whiteboard and in the middle.
 
